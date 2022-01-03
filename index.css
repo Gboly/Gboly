@@ -1,0 +1,178 @@
+﻿body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.top-container {
+    background-color: #EAF6F6;
+    padding: 80px 0 0;
+    color: #66BFBF;
+    font-weight: bold;
+    line-height: 2;
+    position:relative;
+    /*height:100px;
+    width:150px;*/
+    /*position: absolute;
+    left:300px;*/
+}
+.middle-container {
+    padding:80px 0;
+    position:relative;
+    /*background-color:cadetblue;*/
+    /*height: 100px;
+    width: 150px;*/
+    /*position:relative;*/
+   }
+.bottom-container {
+    background-color: #66BFBF;
+    margin:auto;
+    position:relative;
+    padding:45px 0 20px;
+    /*background-color: #66BFBF;
+     height: 100px;
+    width: 150px;
+    position:absolute;
+    left:150px;
+}*/
+}
+.circle {
+    width: 200px;
+    height: 200px;
+    background-color: #EAF6F6;
+    border-radius: 50%;
+    position: fixed;
+    left: 50px;
+    text-align:center;
+}
+.programmer{
+    width:150px;
+    padding:10% 7% 0 0;
+    position:relative;
+}
+.topcloud{
+    position:absolute;
+    right:250px;
+}
+.mountain {
+    width: 400px;
+    /*position:relative;*/
+}
+.bottomcloud {
+    position: absolute;
+    left: 250px;
+}
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    margin-bottom: 0;
+    color: #66BFBF;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #66BFBF;
+    padding:80px 0 50px 0;
+}
+.hello{
+    padding:35px 0 0 0;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-weight:bolder;
+}
+.fineboy{
+    width:200px;
+}
+.about-me {
+    width: 30%;
+    margin: 60px auto 80px;
+    color: #40514E;
+    font-weight:bold;
+}
+.emoji{
+    font-weight:normal;
+}
+p{
+    line-height:2;
+}
+hr {
+    width: 5%;
+    border-style: dotted none none;
+    /*color:aliceblue;*/
+    /*background-color:aqua;*/
+    height: 0px;
+    border-width: 7px;
+    border-color: #EAF6F6;
+}
+.htmllogo {
+    /* text-align:justify;*/
+    width: 15%;
+    float: left;
+    padding-right: 5px;
+    padding-bottom:30px;
+
+}
+.csslogo {
+    /* text-align:justify;*/
+    width: 15%;
+    float: left;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+.html-css, .autocad {
+    /*width: 30%;*/
+    margin: 20px auto 80px;
+    color: #40514E;
+    font-weight: bold;
+    /*text-align: justify;*/
+}
+.skill-row{
+    width:50%;
+    margin:80px auto 50px;
+    text-align:left;
+}
+.autocad-logo{
+    float:right;
+    width:25%;
+}
+#skill-row{
+    margin:auto auto 80px;
+}
+.contact {
+    text-decoration: none;
+    background-color: #11999E;
+    padding: 10px;
+    color: #EAF6F6;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
+}
+.contact:hover {
+        background-color: #BCCC9A;
+    }
+.collaborate {
+    color: #40514E;
+    font-weight: bold;
+    margin-bottom:30px;
+}
+.contact-me{
+    width:50%;
+    margin:auto;
+}
+.footer-link {
+    color: #11999E;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right:30px;
+    
+    
+}
+ .footer-link:hover {
+        color: #CDF0EA;
+    }
+.copyright {
+    color: #EAF6F6;
+    margin:100px auto auto;
+
+}
