@@ -1,5 +1,15 @@
-### Hi there 👋
+Hi there 👋
 
+I am a software developer with frontend and backend experience. I use React for my frontend projects and node.js together with express for my backend services.
+
+- I'm currently working on a fullstack social media web app, CHOCHOCHO. 
+- I'm open to great internships or junior developer roles. 
+- I am currently learning unit testing using Jest😀. 
+- I'm also really interested in open source which made me join Eddie's hub here on github. They have good repos for contribution.
+
+📩 Gbolahanahmed1@gmail.com
+
+Twitter: @gboly4L
 <!--
 **Gboly/Gboly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
