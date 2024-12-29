@@ -71,6 +71,6 @@ I'm currently deepening my expertise in:
 
 ## 📫 Let's Connect!
 
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out to me via  [Email](gbolahanahmed1@gmail.com) or [LinkedIn](inkedin.com/in/quamordeenahmed-c1303).
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out to me via  [Email](mailto:gbolahanahmed1@gmail.com) or [LinkedIn](https://www.linkedin.com/in/quamordeen-ahmed-c1303).
 
 Remember, in the world of software development, every bug is just an opportunity for improvement, and every challenge is a chance to learn something new!
